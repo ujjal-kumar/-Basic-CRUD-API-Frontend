@@ -1,7 +1,5 @@
 # Basic-CRUD-API-Frontend
-🚀 **Project Completed: React Frontend Integration with Express & MongoDB**
-
-Excited to share that I've completed **Task 2: React Frontend Integration** as part of my Full Stack Development learning journey!
+Excited to share that I've completed **React Frontend Integration** as part of my Full Stack Development learning journey!
 
 In this project, I built a React frontend (using **React + Vite**) and integrated it with my Express.js and MongoDB backend to perform complete CRUD operations.
 
